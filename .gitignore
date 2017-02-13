@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/CppDllCSharpApp/.vs/CppDllCSharpAp/v14
+/CppDllCSharpApp/CppDllCSharpAp.VC.VC.opendb
+/CppDllCSharpApp/CppDllCSharpAp.VC.db
+/CppDllCSharpApp/CppApp/Debug
+/CppDllCSharpApp/CppDll/Debug
+/CppDllCSharpApp/CSharpApp/bin/Debug
+/CppDllCSharpApp/CSharpService/bin/Debug
+/CppDllCSharpApp/CSharpService/obj/Debug
+/CppDllCSharpApp/Debug
+/CppDllCSharpApp/ipch/CPPDLL-64b961e4
+/CppDllCSharpApp/CSharpApp/obj/Debug
